@@ -152,3 +152,11 @@ kbd {
   border-radius: 6px;
   padding: 2px 6px;
 }
+
+@media (max-width: 460px) {
+  header.site { gap: 6px; }
+  .brand { font-size: 16px; gap: 8px; }
+  .brand img { width: 28px; height: 28px; }
+  nav.site { gap: 2px; flex-wrap: nowrap; }
+  nav.site a { font-size: 14px; padding: 6px 9px; }
+}
