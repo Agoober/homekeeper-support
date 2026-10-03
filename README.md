@@ -1,12 +1,12 @@
-# HomeKeeper Support
+# Tend Support
 
-Support and privacy pages for **HomeKeeper**, the home maintenance app for iPhone and iPad.
+Support and privacy pages for **Tend**, the home maintenance app for iPhone and iPad.
 
-- **Support & FAQ:** https://agoober.github.io/homekeeper-support/
-- **Privacy policy:** https://agoober.github.io/homekeeper-support/privacy.html
-- **中文：** https://agoober.github.io/homekeeper-support/zh/
+- **Support & FAQ:** https://agoober.github.io/tend-support/
+- **Privacy policy:** https://agoober.github.io/tend-support/privacy.html
+- **中文：** https://agoober.github.io/tend-support/zh/
 
-Need help? [Open a request](https://github.com/Agoober/homekeeper-support/issues/new/choose).
+Need help? [Open a request](https://github.com/Agoober/tend-support/issues/new/choose).
 Requests are public, so please don't include personal information.
 
 ## Editing the site

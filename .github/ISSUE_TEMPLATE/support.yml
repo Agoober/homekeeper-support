@@ -1,5 +1,5 @@
 name: Get help
-description: Ask a question or report a problem with HomeKeeper.
+description: Ask a question or report a problem with Tend.
 title: "[Help] "
 labels: ["support"]
 body:
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for reaching out! **This request is public** — please don't include personal information such as your address, policy or account numbers, or photos of documents.
-        Check the [FAQ](https://agoober.github.io/homekeeper-support/) first; your answer may already be there.
+        Check the [FAQ](https://agoober.github.io/tend-support/) first; your answer may already be there.
   - type: textarea
     id: question
     attributes:
@@ -25,7 +25,7 @@ body:
   - type: input
     id: app-version
     attributes:
-      label: HomeKeeper version
+      label: Tend version
       description: Settings › About › Version
       placeholder: "1.0 (1)"
   - type: dropdown

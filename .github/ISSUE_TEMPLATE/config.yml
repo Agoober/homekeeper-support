@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Frequently asked questions
-    url: https://agoober.github.io/homekeeper-support/
+    url: https://agoober.github.io/tend-support/
     about: Answers to common questions about reminders, sync, backups and Pro.
   - name: Privacy policy
-    url: https://agoober.github.io/homekeeper-support/privacy.html
-    about: How HomeKeeper handles your data (it doesn't collect any).
+    url: https://agoober.github.io/tend-support/privacy.html
+    about: How Tend handles your data (it doesn't collect any).
